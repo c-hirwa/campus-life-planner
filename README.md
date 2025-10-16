@@ -96,8 +96,3 @@ seed.json
 **Chris Hirwa**  
 📧 c.hirwa@alustudent.com  
 💻 [GitHub](https://github.com/c-hirwa)
-
----
-
-## 🧾 License
-MIT License — free to use and modify for educational purposes.
