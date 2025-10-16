@@ -1,12 +1,12 @@
 # Campus Life Planner
 
-A minimal, dark-themed, responsive web app built with **vanilla HTML, CSS, and JavaScript**. It helps students plan and manage their campus life tasks and events with regex-powered search, smart validation, and local data persistence.
+A minimal, responsive web app built with **vanilla HTML, CSS, and JavaScript**. It helps students plan and manage their campus life tasks and events with regex-powered search, smart validation, and local data persistence.
 
 ---
 
 ## 🌐 Demo
 Open via GitHub Pages (replace with your repo URL once deployed):  
-**https://yourusername.github.io/campus-life-planner/**
+**https://github.com/c-hirwa/campus-life-planner/**
 
 ---
 
@@ -93,7 +93,7 @@ seed.json
 ---
 
 ## 🪪 Author
-**Your Name**  
+**Chris Hirwa**  
 📧 c.hirwa@alustudent.com  
 💻 [GitHub](https://github.com/c-hirwa)
 
