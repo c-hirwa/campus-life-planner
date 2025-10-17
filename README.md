@@ -6,7 +6,9 @@ A minimal, responsive web app built with **vanilla HTML, CSS, and JavaScript**. 
 
 ## 🌐 Demo
 Open via GitHub Pages (replace with your repo URL once deployed):  
-**https://github.com/c-hirwa/campus-life-planner/**
+**GitHub Pages:** https://github.com/c-hirwa/campus-life-planner
+
+**Demo Video:** https://youtu.be/your-video-id
 
 ---
 
