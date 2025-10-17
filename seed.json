@@ -1,0 +1,152 @@
+[
+  {
+    "id": "task_001",
+    "title": "Complete Data Structures Assignment",
+    "dueDate": "2025-10-25",
+    "duration": "180",
+    "tag": "Study",
+    "notes": "Implement binary search tree and hash table",
+    "createdAt": "2025-10-10T08:00:00.000Z",
+    "updatedAt": "2025-10-10T08:00:00.000Z"
+  },
+  {
+    "id": "task_002",
+    "title": "Group Project Meeting at 14:30",
+    "dueDate": "2025-10-18",
+    "duration": "90",
+    "tag": "Group-Work",
+    "notes": "Discuss project timeline and divide tasks",
+    "createdAt": "2025-10-12T10:30:00.000Z",
+    "updatedAt": "2025-10-12T10:30:00.000Z"
+  },
+  {
+    "id": "task_003",
+    "title": "Read Chapter 7 Database Systems",
+    "dueDate": "2025-10-20",
+    "duration": "120",
+    "tag": "Reading",
+    "notes": "Focus on normalization and SQL joins",
+    "createdAt": "2025-10-13T14:00:00.000Z",
+    "updatedAt": "2025-10-13T14:00:00.000Z"
+  },
+  {
+    "id": "task_004",
+    "title": "Gym Workout Session",
+    "dueDate": "2025-10-17",
+    "duration": "60",
+    "tag": "Personal",
+    "notes": "Leg day - squats and deadlifts",
+    "createdAt": "2025-10-14T06:00:00.000Z",
+    "updatedAt": "2025-10-14T06:00:00.000Z"
+  },
+  {
+    "id": "task_005",
+    "title": "Prepare Presentation Slides",
+    "dueDate": "2025-10-22",
+    "duration": "150",
+    "tag": "Study",
+    "notes": "15 slides on machine learning algorithms",
+    "createdAt": "2025-10-11T16:00:00.000Z",
+    "updatedAt": "2025-10-11T16:00:00.000Z"
+  },
+  {
+    "id": "task_006",
+    "title": "Attend Career Fair at 10:00",
+    "dueDate": "2025-10-19",
+    "duration": "180",
+    "tag": "Career",
+    "notes": "Bring resumes, target tech companies",
+    "createdAt": "2025-10-09T12:00:00.000Z",
+    "updatedAt": "2025-10-09T12:00:00.000Z"
+  },
+  {
+    "id": "task_007",
+    "title": "Physics Lab Report",
+    "dueDate": "2025-10-21",
+    "duration": "240",
+    "tag": "Study",
+    "notes": "Analyze oscillation experiment data",
+    "createdAt": "2025-10-08T09:00:00.000Z",
+    "updatedAt": "2025-10-15T11:00:00.000Z"
+  },
+  {
+    "id": "task_008",
+    "title": "Club Meeting Planning Session",
+    "dueDate": "2025-10-18",
+    "duration": "45",
+    "tag": "Extracurricular",
+    "notes": "Plan next month's activities",
+    "createdAt": "2025-10-14T18:00:00.000Z",
+    "updatedAt": "2025-10-14T18:00:00.000Z"
+  },
+  {
+    "id": "task_009",
+    "title": "Review Calculus Notes for Midterm",
+    "dueDate": "2025-10-24",
+    "duration": "300",
+    "tag": "Study",
+    "notes": "Integration techniques and series convergence",
+    "createdAt": "2025-10-07T15:00:00.000Z",
+    "updatedAt": "2025-10-16T20:00:00.000Z"
+  },
+  {
+    "id": "task_010",
+    "title": "Coffee with Study Group",
+    "dueDate": "2025-10-17",
+    "duration": "75",
+    "tag": "Social",
+    "notes": "Discuss upcoming exams over coffee",
+    "createdAt": "2025-10-15T07:00:00.000Z",
+    "updatedAt": "2025-10-15T07:00:00.000Z"
+  },
+  {
+    "id": "task_011",
+    "title": "Submit Research Paper Draft",
+    "dueDate": "2025-10-26",
+    "duration": "360",
+    "tag": "Research",
+    "notes": "5000 words on renewable energy technologies",
+    "createdAt": "2025-10-05T10:00:00.000Z",
+    "updatedAt": "2025-10-14T22:00:00.000Z"
+  },
+  {
+    "id": "task_012",
+    "title": "Programming Contest Practice",
+    "dueDate": "2025-10-23",
+    "duration": "120",
+    "tag": "Coding",
+    "notes": "LeetCode medium difficulty problems",
+    "createdAt": "2025-10-13T19:00:00.000Z",
+    "updatedAt": "2025-10-13T19:00:00.000Z"
+  },
+  {
+    "id": "task_013",
+    "title": "Laundry and Room Cleaning",
+    "dueDate": "2025-10-17",
+    "duration": "90.5",
+    "tag": "Personal",
+    "notes": "Deep clean before parents visit",
+    "createdAt": "2025-10-16T08:00:00.000Z",
+    "updatedAt": "2025-10-16T08:00:00.000Z"
+  },
+  {
+    "id": "task_014",
+    "title": "Office Hours with Professor Smith",
+    "dueDate": "2025-10-19",
+    "duration": "30",
+    "tag": "Academic",
+    "notes": "Clarify questions about last lecture at 15:00",
+    "createdAt": "2025-10-15T13:00:00.000Z",
+    "updatedAt": "2025-10-15T13:00:00.000Z"
+  },
+  {
+    "id": "task_015",
+    "title": "Volunteer at Community Center",
+    "dueDate": "2025-10-20",
+    "duration": "150",
+    "tag": "Volunteer",
+    "notes": "Teaching coding basics to kids",
+    "createdAt": "2025-10-06T11:00:00.000Z",
+    "updatedAt": "2025-10-06T11:00:00.000Z"
+  }
+]
